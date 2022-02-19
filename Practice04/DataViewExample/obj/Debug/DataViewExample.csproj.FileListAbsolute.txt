@@ -1,0 +1,10 @@
+C:\Users\Maria\source\repos\ADO\Practice04\DataViewExample\bin\Debug\DataViewExample.exe.config
+C:\Users\Maria\source\repos\ADO\Practice04\DataViewExample\bin\Debug\DataViewExample.exe
+C:\Users\Maria\source\repos\ADO\Practice04\DataViewExample\bin\Debug\DataViewExample.pdb
+C:\Users\Maria\source\repos\ADO\Practice04\DataViewExample\obj\Debug\DataViewExample.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\ADO\Practice04\DataViewExample\obj\Debug\DataViewExample.Form1.resources
+C:\Users\Maria\source\repos\ADO\Practice04\DataViewExample\obj\Debug\DataViewExample.Properties.Resources.resources
+C:\Users\Maria\source\repos\ADO\Practice04\DataViewExample\obj\Debug\DataViewExample.csproj.GenerateResource.cache
+C:\Users\Maria\source\repos\ADO\Practice04\DataViewExample\obj\Debug\DataViewExample.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\ADO\Practice04\DataViewExample\obj\Debug\DataViewExample.exe
+C:\Users\Maria\source\repos\ADO\Practice04\DataViewExample\obj\Debug\DataViewExample.pdb

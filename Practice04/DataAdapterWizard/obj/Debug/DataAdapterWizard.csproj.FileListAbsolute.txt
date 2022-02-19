@@ -1,0 +1,10 @@
+C:\Users\Maria\source\repos\ADO\Practice04\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe.config
+C:\Users\Maria\source\repos\ADO\Practice04\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe
+C:\Users\Maria\source\repos\ADO\Practice04\DataAdapterWizard\bin\Debug\DataAdapterWizard.pdb
+C:\Users\Maria\source\repos\ADO\Practice04\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\ADO\Practice04\DataAdapterWizard\obj\Debug\DataAdapterWizard.Form1.resources
+C:\Users\Maria\source\repos\ADO\Practice04\DataAdapterWizard\obj\Debug\DataAdapterWizard.Properties.Resources.resources
+C:\Users\Maria\source\repos\ADO\Practice04\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.GenerateResource.cache
+C:\Users\Maria\source\repos\ADO\Practice04\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\ADO\Practice04\DataAdapterWizard\obj\Debug\DataAdapterWizard.exe
+C:\Users\Maria\source\repos\ADO\Practice04\DataAdapterWizard\obj\Debug\DataAdapterWizard.pdb

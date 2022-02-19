@@ -1,0 +1,10 @@
+C:\Users\Maria\source\repos\ADO\Practice04\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+C:\Users\Maria\source\repos\ADO\Practice04\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+C:\Users\Maria\source\repos\ADO\Practice04\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+C:\Users\Maria\source\repos\ADO\Practice04\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\ADO\Practice04\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+C:\Users\Maria\source\repos\ADO\Practice04\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+C:\Users\Maria\source\repos\ADO\Practice04\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+C:\Users\Maria\source\repos\ADO\Practice04\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\ADO\Practice04\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+C:\Users\Maria\source\repos\ADO\Practice04\CreatingDataTable\obj\Debug\CreatingDataTable.pdb
