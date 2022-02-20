@@ -1,0 +1,10 @@
+C:\Users\Maria\source\repos\ADO\Practice05\DataGridViewExample\bin\Debug\DataGridViewExample.exe.config
+C:\Users\Maria\source\repos\ADO\Practice05\DataGridViewExample\bin\Debug\DataGridViewExample.exe
+C:\Users\Maria\source\repos\ADO\Practice05\DataGridViewExample\bin\Debug\DataGridViewExample.pdb
+C:\Users\Maria\source\repos\ADO\Practice05\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\ADO\Practice05\DataGridViewExample\obj\Debug\DataGridViewExample.Form1.resources
+C:\Users\Maria\source\repos\ADO\Practice05\DataGridViewExample\obj\Debug\DataGridViewExample.Properties.Resources.resources
+C:\Users\Maria\source\repos\ADO\Practice05\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.GenerateResource.cache
+C:\Users\Maria\source\repos\ADO\Practice05\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\ADO\Practice05\DataGridViewExample\obj\Debug\DataGridViewExample.exe
+C:\Users\Maria\source\repos\ADO\Practice05\DataGridViewExample\obj\Debug\DataGridViewExample.pdb

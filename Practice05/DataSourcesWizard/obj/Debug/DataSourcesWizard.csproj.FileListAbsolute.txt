@@ -1,0 +1,10 @@
+C:\Users\Maria\source\repos\ADO\Practice05\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe.config
+C:\Users\Maria\source\repos\ADO\Practice05\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe
+C:\Users\Maria\source\repos\ADO\Practice05\DataSourcesWizard\bin\Debug\DataSourcesWizard.pdb
+C:\Users\Maria\source\repos\ADO\Practice05\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\ADO\Practice05\DataSourcesWizard\obj\Debug\DataSourcesWizard.Form1.resources
+C:\Users\Maria\source\repos\ADO\Practice05\DataSourcesWizard\obj\Debug\DataSourcesWizard.Properties.Resources.resources
+C:\Users\Maria\source\repos\ADO\Practice05\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.GenerateResource.cache
+C:\Users\Maria\source\repos\ADO\Practice05\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\ADO\Practice05\DataSourcesWizard\obj\Debug\DataSourcesWizard.exe
+C:\Users\Maria\source\repos\ADO\Practice05\DataSourcesWizard\obj\Debug\DataSourcesWizard.pdb

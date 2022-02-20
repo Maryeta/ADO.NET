@@ -1,0 +1,10 @@
+C:\Users\Maria\source\repos\ADO\Practice05\DataBindingComplex\bin\Debug\DataBindingComplex.exe.config
+C:\Users\Maria\source\repos\ADO\Practice05\DataBindingComplex\bin\Debug\DataBindingComplex.exe
+C:\Users\Maria\source\repos\ADO\Practice05\DataBindingComplex\bin\Debug\DataBindingComplex.pdb
+C:\Users\Maria\source\repos\ADO\Practice05\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\ADO\Practice05\DataBindingComplex\obj\Debug\DataBindingComplex.Form1.resources
+C:\Users\Maria\source\repos\ADO\Practice05\DataBindingComplex\obj\Debug\DataBindingComplex.Properties.Resources.resources
+C:\Users\Maria\source\repos\ADO\Practice05\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.GenerateResource.cache
+C:\Users\Maria\source\repos\ADO\Practice05\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\ADO\Practice05\DataBindingComplex\obj\Debug\DataBindingComplex.exe
+C:\Users\Maria\source\repos\ADO\Practice05\DataBindingComplex\obj\Debug\DataBindingComplex.pdb

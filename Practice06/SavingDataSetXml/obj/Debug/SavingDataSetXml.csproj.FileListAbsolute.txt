@@ -1,0 +1,10 @@
+C:\Users\Maria\source\repos\ADO\Practice06\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe.config
+C:\Users\Maria\source\repos\ADO\Practice06\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe
+C:\Users\Maria\source\repos\ADO\Practice06\SavingDataSetXml\bin\Debug\SavingDataSetXml.pdb
+C:\Users\Maria\source\repos\ADO\Practice06\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\ADO\Practice06\SavingDataSetXml\obj\Debug\SavingDataSetXml.Form1.resources
+C:\Users\Maria\source\repos\ADO\Practice06\SavingDataSetXml\obj\Debug\SavingDataSetXml.Properties.Resources.resources
+C:\Users\Maria\source\repos\ADO\Practice06\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.GenerateResource.cache
+C:\Users\Maria\source\repos\ADO\Practice06\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\ADO\Practice06\SavingDataSetXml\obj\Debug\SavingDataSetXml.exe
+C:\Users\Maria\source\repos\ADO\Practice06\SavingDataSetXml\obj\Debug\SavingDataSetXml.pdb
