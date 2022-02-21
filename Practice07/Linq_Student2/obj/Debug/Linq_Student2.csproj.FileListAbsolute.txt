@@ -1,0 +1,7 @@
+C:\Users\Maria\source\repos\ADO\Practice07\Linq_Student2\bin\Debug\Linq_Student2.exe.config
+C:\Users\Maria\source\repos\ADO\Practice07\Linq_Student2\bin\Debug\Linq_Student2.exe
+C:\Users\Maria\source\repos\ADO\Practice07\Linq_Student2\bin\Debug\Linq_Student2.pdb
+C:\Users\Maria\source\repos\ADO\Practice07\Linq_Student2\obj\Debug\Linq_Student2.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\ADO\Practice07\Linq_Student2\obj\Debug\Linq_Student2.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\ADO\Practice07\Linq_Student2\obj\Debug\Linq_Student2.exe
+C:\Users\Maria\source\repos\ADO\Practice07\Linq_Student2\obj\Debug\Linq_Student2.pdb
