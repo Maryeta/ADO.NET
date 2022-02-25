@@ -1,0 +1,12 @@
+C:\Users\Maria\source\repos\ADO\Practice09\CodeFirst\bin\Debug\CodeFirst.dll.config
+C:\Users\Maria\source\repos\ADO\Practice09\CodeFirst\bin\Debug\CodeFirst.dll
+C:\Users\Maria\source\repos\ADO\Practice09\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\Maria\source\repos\ADO\Practice09\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Maria\source\repos\ADO\Practice09\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maria\source\repos\ADO\Practice09\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Maria\source\repos\ADO\Practice09\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maria\source\repos\ADO\Practice09\CodeFirst\obj\Debug\CodeFirst.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\ADO\Practice09\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\ADO\Practice09\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\Maria\source\repos\ADO\Practice09\CodeFirst\obj\Debug\CodeFirst.dll
+C:\Users\Maria\source\repos\ADO\Practice09\CodeFirst\obj\Debug\CodeFirst.pdb

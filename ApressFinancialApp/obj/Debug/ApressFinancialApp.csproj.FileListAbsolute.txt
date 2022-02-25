@@ -1,0 +1,10 @@
+C:\Users\Maria\source\repos\ADO\ApressFinancialApp\bin\Debug\ApressFinancialApp.exe.config
+C:\Users\Maria\source\repos\ADO\ApressFinancialApp\bin\Debug\ApressFinancialApp.exe
+C:\Users\Maria\source\repos\ADO\ApressFinancialApp\bin\Debug\ApressFinancialApp.pdb
+C:\Users\Maria\source\repos\ADO\ApressFinancialApp\obj\Debug\ApressFinancialApp.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\ADO\ApressFinancialApp\obj\Debug\ApressFinancialApp.Form1.resources
+C:\Users\Maria\source\repos\ADO\ApressFinancialApp\obj\Debug\ApressFinancialApp.Properties.Resources.resources
+C:\Users\Maria\source\repos\ADO\ApressFinancialApp\obj\Debug\ApressFinancialApp.csproj.GenerateResource.cache
+C:\Users\Maria\source\repos\ADO\ApressFinancialApp\obj\Debug\ApressFinancialApp.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\ADO\ApressFinancialApp\obj\Debug\ApressFinancialApp.exe
+C:\Users\Maria\source\repos\ADO\ApressFinancialApp\obj\Debug\ApressFinancialApp.pdb
