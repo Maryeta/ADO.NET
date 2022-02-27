@@ -1,0 +1,16 @@
+C:\Users\Maria\source\repos\ADO\FinalProject_ProductsViewer\bin\Debug\FinalProject_ProductsViewer.exe.config
+C:\Users\Maria\source\repos\ADO\FinalProject_ProductsViewer\bin\Debug\FinalProject_ProductsViewer.exe
+C:\Users\Maria\source\repos\ADO\FinalProject_ProductsViewer\bin\Debug\FinalProject_ProductsViewer.pdb
+C:\Users\Maria\source\repos\ADO\FinalProject_ProductsViewer\bin\Debug\EntityFramework.dll
+C:\Users\Maria\source\repos\ADO\FinalProject_ProductsViewer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maria\source\repos\ADO\FinalProject_ProductsViewer\bin\Debug\EntityFramework.xml
+C:\Users\Maria\source\repos\ADO\FinalProject_ProductsViewer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maria\source\repos\ADO\FinalProject_ProductsViewer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Maria\source\repos\ADO\FinalProject_ProductsViewer\obj\Debug\FinalProject_ProductViewer.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\ADO\FinalProject_ProductsViewer\obj\Debug\FinalProject_ProductsViewer.ProductViewer.resources
+C:\Users\Maria\source\repos\ADO\FinalProject_ProductsViewer\obj\Debug\FinalProject_ProductsViewer.Properties.Resources.resources
+C:\Users\Maria\source\repos\ADO\FinalProject_ProductsViewer\obj\Debug\FinalProject_ProductViewer.csproj.GenerateResource.cache
+C:\Users\Maria\source\repos\ADO\FinalProject_ProductsViewer\obj\Debug\FinalProject_ProductViewer.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\ADO\FinalProject_ProductsViewer\obj\Debug\FinalProject_ProductViewer.csproj.CopyComplete
+C:\Users\Maria\source\repos\ADO\FinalProject_ProductsViewer\obj\Debug\FinalProject_ProductsViewer.exe
+C:\Users\Maria\source\repos\ADO\FinalProject_ProductsViewer\obj\Debug\FinalProject_ProductsViewer.pdb
