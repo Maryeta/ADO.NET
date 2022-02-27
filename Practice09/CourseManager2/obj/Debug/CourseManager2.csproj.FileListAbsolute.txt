@@ -1,0 +1,16 @@
+C:\Users\Maria\source\repos\ADO\Practice09\CourseManager2\bin\Debug\CourseManager2.exe.config
+C:\Users\Maria\source\repos\ADO\Practice09\CourseManager2\bin\Debug\CourseManager2.exe
+C:\Users\Maria\source\repos\ADO\Practice09\CourseManager2\bin\Debug\CourseManager2.pdb
+C:\Users\Maria\source\repos\ADO\Practice09\CourseManager2\obj\Debug\CourseManager2.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\ADO\Practice09\CourseManager2\obj\Debug\CourseManager2.CourseViewer.resources
+C:\Users\Maria\source\repos\ADO\Practice09\CourseManager2\obj\Debug\CourseManager2.Properties.Resources.resources
+C:\Users\Maria\source\repos\ADO\Practice09\CourseManager2\obj\Debug\CourseManager2.csproj.GenerateResource.cache
+C:\Users\Maria\source\repos\ADO\Practice09\CourseManager2\obj\Debug\CourseManager2.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\ADO\Practice09\CourseManager2\obj\Debug\CourseManager2.exe
+C:\Users\Maria\source\repos\ADO\Practice09\CourseManager2\obj\Debug\CourseManager2.pdb
+C:\Users\Maria\source\repos\ADO\Practice09\CourseManager2\bin\Debug\EntityFramework.dll
+C:\Users\Maria\source\repos\ADO\Practice09\CourseManager2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maria\source\repos\ADO\Practice09\CourseManager2\bin\Debug\EntityFramework.xml
+C:\Users\Maria\source\repos\ADO\Practice09\CourseManager2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maria\source\repos\ADO\Practice09\CourseManager2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Maria\source\repos\ADO\Practice09\CourseManager2\obj\Debug\CourseManager2.csproj.CopyComplete
